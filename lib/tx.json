@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": 109.01,
+        "lat": 19.02
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 299.07,
+        "feels_like": 299.86,
+        "temp_min": 299.07,
+        "temp_max": 299.07,
+        "pressure": 1009,
+        "humidity": 82,
+        "sea_level": 1009,
+        "grnd_level": 993
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 1.55,
+        "deg": 138,
+        "gust": 1.65
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1625750168,
+    "sys": {
+        "country": "CN",
+        "sunrise": 1625695928,
+        "sunset": 1625743527
+    },
+    "timezone": 28800,
+    "id": 7632854,
+    "name": "Donghe",
+    "cod": 200
+}
